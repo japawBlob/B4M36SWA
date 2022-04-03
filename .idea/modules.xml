@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/B4M36SWA.iml" filepath="$PROJECT_DIR$/.idea/B4M36SWA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swa/discovery-server/spring-petclinic-discovery-service.iml" filepath="$PROJECT_DIR$/swa/discovery-server/spring-petclinic-discovery-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swa/spring-petclinic-microservices.iml" filepath="$PROJECT_DIR$/swa/spring-petclinic-microservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swa/vets-service/spring-petclinic-vets-service.iml" filepath="$PROJECT_DIR$/swa/vets-service/spring-petclinic-vets-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swa/visits-service/spring-petclinic-visits-service.iml" filepath="$PROJECT_DIR$/swa/visits-service/spring-petclinic-visits-service.iml" />
+    </modules>
+  </component>
+</project>

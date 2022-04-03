@@ -1,0 +1,1 @@
+## Softwarové architektury 2022
